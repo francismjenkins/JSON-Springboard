@@ -4,5 +4,5 @@
 
 Pandas and Data for the Json Data Wrangling Exercise for Springboard's Data Science with Python course
 
-* This repository contains JSON datasets from the World Bank in a folder called data
+* This repository contains JSON datasets from the World Bank
 * It also contain a the Jupyter/ipython notebooks for both exercises questions and their solutions.
